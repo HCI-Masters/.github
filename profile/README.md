@@ -10,4 +10,4 @@
 * [Vasileios Kakoulidis](https://github.com/VasilisK23)
  
 
-## webring is pending 
+## Our [webring](https://upatras-hci-2023.netlify.app/)
