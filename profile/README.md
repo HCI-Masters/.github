@@ -8,6 +8,6 @@
 * [Chrysa Panagiotopoulou](https://github.com/xrusa-pan)
 * [Vasia Bilali](https://github.com/VasiaBi)
 * [Vasileios Kakoulidis](https://github.com/VasilisK23)
- 
+* [Christos Tsiligiannis](https://github.com/xristostsilis)
 
 ## Our [webring](https://upatras-hci-2023.netlify.app/)
